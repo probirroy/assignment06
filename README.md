@@ -1,16 +1,7 @@
 # assignment06
 
-A new Flutter project.
+![assignment06-01](https://github.com/probirroy/assignment06/assets/9416408/d102bfe8-d805-4baf-af1a-daa38abca288)
 
-## Getting Started
+![assignment06-02](https://github.com/probirroy/assignment06/assets/9416408/a284a4cb-54e9-46b2-a469-b6ef73b317b5)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![assignment06-03](https://github.com/probirroy/assignment06/assets/9416408/1d2a12a7-689b-4b27-94f2-d46b42839756)
